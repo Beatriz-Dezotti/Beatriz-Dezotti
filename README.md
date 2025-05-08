@@ -54,7 +54,7 @@
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatriz-Dezotti&show_icons=true&theme=dracula&show_all_commits-true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatriz-Dezotti&show_all_icons=true&theme=dracula&show_all_commits-true)
 
 
 
